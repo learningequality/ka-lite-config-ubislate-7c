@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+<boolean name="accept_cookies" value="true" />
+<boolean name="debug_menu" value="true" />
+<int name="double_tap_zoom" value="5" />
+<boolean name="enable_javascript" value="true" />
+<boolean name="show_security_warnings" value="true" />
+<boolean name="load_page" value="true" />
+<boolean name="autofit_pages" value="true" />
+<boolean name="block_popup_windows" value="true" />
+<string name="search_engine">google</string>
+<string name="default_text_encoding">Latin-1</string>
+<boolean name="load_images" value="true" />
+<boolean name="privacy_clear_geolocation_access" value="false" />
+<int name="text_zoom" value="10" />
+<boolean name="enable_geolocation" value="true" />
+<string name="user_agent">0</string>
+<boolean name="save_formdata" value="true" />
+<string name="plugin_state">ON</string>
+<string name="default_zoom">MEDIUM</string>
+<boolean name="autofill_enabled" value="true" />
+<string name="preload_when">WIFI_ONLY</string>
+<boolean name="remember_passwords" value="true" />
+<boolean name="reset_default_preferences" value="false" />
+</map>

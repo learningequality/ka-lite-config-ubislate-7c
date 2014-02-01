@@ -1,4 +1,4 @@
-ubislate-7c-config
+KA Lite: ubislate 7c configuration scripts
 ==================
 
 Configuration Files to Set up Ubislate 7C tablets to work with a KA Lite open hot spot

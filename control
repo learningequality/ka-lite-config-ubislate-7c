@@ -1,0 +1,10 @@
+Package: ubislate-config
+Version: 1.1-1
+Section: base
+Priority: optional
+Architecture: amd64
+Depends: libnotify-bin (>= 0.7.4), android-tools-adb (>= 4.2.0)
+Maintainer: Aron Fyodor Asor <aron@learningequality.org>
+Description: Ubislate config
+ Automatically configure a Ubislate tablet for KA Lite
+ once it's plugged in

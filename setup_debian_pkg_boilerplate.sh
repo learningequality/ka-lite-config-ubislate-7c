@@ -25,7 +25,6 @@ cp $SRCDIR/wpa_supplicant.conf .
 cp $SRCDIR/browser2.db .
 cp $SRCDIR/launcher.db .
 cp $SRCDIR/configure.sh .
-cp $SRCDIR/adb .
 
 popd > /dev/null
 

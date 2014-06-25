@@ -4,7 +4,7 @@ from __future__ import print_function
 import os
 import subprocess
 
-BACKUP_DIR = os.path.join(os.getcwd(), 'ilkdsfjge')
+BACKUP_DIR = os.path.join(os.getcwd(), 'backup-7cplus')
 
 
 def main():

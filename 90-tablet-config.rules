@@ -1,1 +1,1 @@
-ACTION=="add", SUBSYSTEM=="usb", ATTR{idVendor}=="18d1", RUN+="/opt/ubislate_config/configure.sh"
+ACTION=="add", SUBSYSTEM=="usb", ATTR{idVendor}=="1f3a", ATTR{idProduct}=="1002", RUN+="/opt/ubislate_config/configure.sh"
